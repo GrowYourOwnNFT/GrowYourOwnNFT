@@ -1,2 +1,2 @@
 # GrowYourOwnNFT
- Initial setp of Laravel, Jetstream, and React.
+ Initial setup of Laravel, Jetstream, and React.
